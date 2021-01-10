@@ -1,0 +1,6 @@
+
+Instalar proyecto: npm install
+
+Arrancar servidor: npm start
+
+Lanzar test: npm run test
